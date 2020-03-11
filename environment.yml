@@ -1,0 +1,17 @@
+name: cloud4bio 
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - matplotlib
+  - ipython=7.10.0
+  - jpeg
+  - jsonschema
+  - matplotlib
+  - numpy
+  - pandas
+  - pip:
+    - scipy==1.3.3
+
